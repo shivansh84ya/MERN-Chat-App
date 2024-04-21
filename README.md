@@ -5,10 +5,10 @@ MERN Stack Project: Build and Deploy a Real Time Chat App | JWT, Socket.io
 ## Screenshot
 
 # Home Page
-![TechDome Chat Application](./Screenshot 2024-04-21 173659.png)
+![TechDome Chat Application](./chat.png)
 
 # Chat Page
-![TechDome Chat Application](./chat.png)
+![TechDome Chat Application](./home.png)
 
 
 
